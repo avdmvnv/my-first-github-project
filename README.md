@@ -1,3 +1,3 @@
 # my-first-github-project
 
-This is my first Git Hub Project. This file is edited locally.
+This is my first GitHub project and is edited to resolve conflict locally
